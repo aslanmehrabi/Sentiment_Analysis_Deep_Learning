@@ -28,4 +28,6 @@ Feature extraction method:
  Scikit Learning(Machine Learning)
  Gensim (word2vec)
  Keras (Deep Learning)
+
+_{Collaborative Project}_
  
