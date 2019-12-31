@@ -29,5 +29,5 @@ Feature extraction method:
  Gensim (word2vec)
  Keras (Deep Learning)
 
-_{Collaborative Project}_
+_{Collaborative Project with Ali Ebtehaj and Shahab Shams}_
  
